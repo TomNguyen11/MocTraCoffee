@@ -130,7 +130,7 @@ body{
 }
 @font-face{
 	font-family: 'myFont';
-	src: url('../font/UVNKeChuyen2.ttf');
+	src: url(../font/UVNKeChuyen2.ttf);
 }
 #gioithieu p{
 	float: left;
