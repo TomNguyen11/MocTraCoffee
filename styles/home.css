@@ -123,9 +123,9 @@ body{
 }
 #gioithieu img{
 	position: absolute;
-	top: 350px;
-	left: 1050px;
-	width: 200px;
+	top: 130px;
+	left: 60px;
+	width: 1300px;
 	float: left;
 }
 @font-face{
